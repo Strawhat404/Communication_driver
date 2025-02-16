@@ -1,0 +1,15 @@
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\bin\Debug\net9.0\TcpClientServerApp.exe
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\bin\Debug\net9.0\TcpClientServerApp.deps.json
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\bin\Debug\net9.0\TcpClientServerApp.runtimeconfig.json
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\bin\Debug\net9.0\TcpClientServerApp.dll
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\bin\Debug\net9.0\TcpClientServerApp.pdb
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.AssemblyInfoInputs.cache
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.AssemblyInfo.cs
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.csproj.CoreCompileInputs.cache
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.sourcelink.json
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.dll
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\refint\TcpClientServerApp.dll
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.pdb
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\TcpClientServerApp.genruntimeconfig.cache
+C:\Users\pirate\Documents\projects\C#\Communication_driver\TcpClientServerApp\obj\Debug\net9.0\ref\TcpClientServerApp.dll
