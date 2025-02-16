@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TcpClientServerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49297f445f0b5354bf577cd811444d7b9c6f1bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed9e00084a647189f813e8507489fd13a307932")]
 [assembly: System.Reflection.AssemblyProductAttribute("TcpClientServerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TcpClientServerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
