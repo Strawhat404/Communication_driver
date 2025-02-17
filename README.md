@@ -1,4 +1,4 @@
-C# TCP Client-Server Communication Driver
+# C# TCP Client-Server Communication Driver
 This project is a C# TCP Client-Server Application that mimics a simple communication driver. It demonstrates how to implement a basic TCP server and client in C# for industrial data exchange.The server listens for incoming connections, processes commands, and sends mock responses, while the client sends predefined commands and displays the server's responses.
 
 Features
